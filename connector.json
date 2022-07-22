@@ -39,7 +39,7 @@
   ],
   "advancedReports": null,
   "guid": "c3cf1ad8-cc07-422f-8954-60b51ce4bfee",
-  "authorName": "testss",
+  "authorName": "clone",
   "accesstokenMethod": null,
   "tokenAddlParams": null,
   "publishPrivate": true,
@@ -59,7 +59,7 @@
       "showWhen": null,
       "value": null,
       "dateSelectorValue": null,
-      "$$hashKey": "object:170"
+      "$$hashKey": "object:1528"
     },
     {
       "name": "test",
@@ -72,7 +72,7 @@
       "showWhen": "",
       "value": null,
       "dateSelectorValue": null,
-      "$$hashKey": "object:171"
+      "$$hashKey": "object:1529"
     }
   ],
   "commands": null,
