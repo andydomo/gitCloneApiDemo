@@ -39,7 +39,7 @@
   ],
   "advancedReports": null,
   "guid": "c3cf1ad8-cc07-422f-8954-60b51ce4bfee",
-  "authorName": "clone",
+  "authorName": "clone1",
   "accesstokenMethod": null,
   "tokenAddlParams": null,
   "publishPrivate": true,
@@ -101,8 +101,8 @@
   "stakeholders": null,
   "visible": true,
   "validImages": [
-    "iconWithBackground",
     "logoWithBackground",
+    "iconWithBackground",
     "iconWithoutBackground",
     "logoWithoutBackground"
   ]
